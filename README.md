@@ -2,6 +2,10 @@ Assignment #3: Ray tracing
 
 FULL NAME: Junmeng Xu
 
+Example
+------------------
+![SIGGRAPH-result](./extra/extra-SIGGRAPH-recursiveReflection1times.jpg)
+![table-result](./extra/extra-table-softShadows.jpg)
 
 MANDATORY FEATURES
 ------------------
